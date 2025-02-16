@@ -1,0 +1,6 @@
+# 모든 파일 무시
+*
+
+# 원하는 파일만 추적
+!.gitignore
+!Voltage.ipynb
